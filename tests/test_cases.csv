@@ -1,4 +1,4 @@
-question,expected_source,expected_page,should_refuse,expected_keywords
+question,source,page,refused,keywords
 What is the leave policy?,Policy.pdf,6,false,24
 How is attendance calculated?,Handbook.pdf,11,false,present;working days
 Who is the company CEO?,,,true,
